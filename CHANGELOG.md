@@ -5,6 +5,7 @@
 
 ### Bug Fixes
 1. [#197](https://github.com/influxdata/influxdb-client-java/issues/196): Removed badly licenced JSON-Java library
+1. [#199](https://github.com/influxdata/influxdb-client-java/pull/199): Correct implementation of Backpressure for Scala Querying
 
 ## 1.15.0 [2021-01-29]
 
